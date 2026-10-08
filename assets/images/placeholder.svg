@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#F3EDE7"/>
+  <rect x="20" y="20" width="760" height="560" fill="none" stroke="#D1C3C3" stroke-width="2" stroke-dasharray="8 8" rx="12"/>
+  
+  <!-- Subtle Coffee Cup / Image Icon -->
+  <g transform="translate(400, 260)" text-anchor="middle">
+    <circle cx="0" cy="0" r="48" fill="#EDE7E2" stroke="#D1C3C3" stroke-width="2"/>
+    <path d="M-16 -8 C-16 12, 16 12, 16 -8 Z" fill="#97472E" opacity="0.8"/>
+    <path d="M-12 -12 C-8 -24, -14 -28, -10 -36" fill="none" stroke="#97472E" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+    <path d="M0 -14 C4 -24, -2 -28, 2 -36" fill="none" stroke="#97472E" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+    <path d="M12 -12 C16 -24, 10 -28, 14 -36" fill="none" stroke="#97472E" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+    <path d="M16 -2 C22 -2, 26 2, 26 6 C26 10, 22 14, 16 14" fill="none" stroke="#807474" stroke-width="2.5" stroke-linecap="round"/>
+    
+    <!-- Text Labels -->
+    <text y="90" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="20" font-weight="600" fill="#3B2F2F" letter-spacing="0.05em">
+      FOTO BELUM DIMASUKKAN
+    </text>
+    <text y="120" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="14" fill="#807474" letter-spacing="0.02em">
+      Ganti foto ini di folder: assets/images/
+    </text>
+  </g>
+</svg>

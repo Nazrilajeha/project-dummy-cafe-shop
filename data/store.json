@@ -1,0 +1,29 @@
+{
+  "brandName": "KOMOREBI",
+  "subTitle": "Specialty Coffee Sanctuary",
+  "tagline": "Slow Mornings, Mindful Pours.",
+  "heroDescription": "Single-origin micro-lots roasted in small batches, brewed with Scandinavian precision and Japanese mindfulness. An architectural sanctuary designed for deep pauses and deliberate sensory pleasure.",
+  "whatsappNumber": "6281234567890",
+  "operatingHours": {
+    "statusBadge": "Open Now until 22:00",
+    "weekday": "07:00 – 22:00",
+    "weekend": "07:00 – 22:00",
+    "lastCall": "21:30"
+  },
+  "location": {
+    "address": "Jalan Senopati No. 42, Selong, Kebayoran Baru",
+    "city": "Jakarta Selatan 12110, Indonesia",
+    "transit": "MRT: Senayan / Blok M BCA (8 min ride-hail)",
+    "parking": "Valet parking available at front gate with EV charging",
+    "googleMapsUrl": "https://maps.google.com/?q=Jalan+Senopati+No.+42+Jakarta"
+  },
+  "contact": {
+    "email": "hello@komorebi.coffee",
+    "phone": "+62 812 3456 7890"
+  },
+  "stats": [
+    { "value": "84+", "label": "Cup Score Guaranteed" },
+    { "value": "Direct", "label": "Farm Partnerships" },
+    { "value": "Ceramic", "label": "Slow Bar Rituals" }
+  ]
+}
